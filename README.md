@@ -1,2 +1,4 @@
-# powerbi-sales-and-returns-analysis
-Interactive Power BI dashboard analyzing sales, returns, store performance, and monthly product trends across multiple report pages.
+# Sales & Returns Dashboard (Power BI)
+
+## Project Objective
+To analyze retail sales and returns performance across stores, products, and months using an interactive Power BI dashboard.
