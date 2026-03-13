@@ -4,7 +4,7 @@
 To analyze retail sales and returns performance across stores, products, and months using an interactive Power BI dashboard.
 
 ## Dataset Used
-- ## https://github.com/mahmoudnasr33/powerbi-sales-and-returns-analysis/blob/main/DA%20Project1.xlsx
+- [Download Dataset](https://github.com/mahmoudnasr33/powerbi-sales-and-returns-analysis/blob/main/DA%20Project1.xlsx)
 
 ## Questions (KPIs)
 
