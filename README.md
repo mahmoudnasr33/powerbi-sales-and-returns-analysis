@@ -27,6 +27,22 @@ To analyze retail sales and returns performance across stores, products, and mon
 - Designed interactive navigation buttons between report pages.
 - Applied slicers for month-based filtering.
 
+- -  ## Main Dashboard
+<img width="1272" height="716" alt="Main Dashboard" src="https://github.com/user-attachments/assets/25a8ab28-90ec-457e-8d4d-1f471d9a223a" />
+
+
+- -  ## Sales Dashboard
+ 
+<img width="1259" height="707" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/9e06555f-1ee0-49ba-a4a4-e5926ece00e7" />
+
+
+- -  ## Returns Dashboard
+ 
+<img width="1270" height="704" alt="Return Dashboard" src="https://github.com/user-attachments/assets/e5626cb4-2a1d-4beb-91b8-d6c9bb0110dd" />
+
+
+
+
 
 ## Project Insights
 
