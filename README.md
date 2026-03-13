@@ -34,3 +34,12 @@ To analyze retail sales and returns performance across stores, products, and mon
 - - ## Returns Dashboard
 
 <img width="1320" height="794" alt="Returns Dashboard" src="https://github.com/mahmoudnasr33/powerbi-sales-and-returns-analysis/blob/main/Return%20Dashboard.png" />
+
+## Project Insights
+
+- Total sales reached $21M while total returns reached $2M.
+- November recorded the highest monthly sales.
+- Caramel Cake generated the highest sales among products.
+- Massa Store achieved the highest store performance.
+- Fruit Kunafa recorded the highest return value.
+
